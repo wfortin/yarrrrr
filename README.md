@@ -3,4 +3,5 @@ Projet de jeu vidéo réalisé dans le cadre du cours IFT-2103 - Programmation d
 
 
 Version jouable ici : http://wfortin.github.io/yarrrrr/
-Nécessite le plug-in unity web player.
+
+(Nécessite le plug-in unity web player.)
